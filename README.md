@@ -55,7 +55,7 @@ npx github-label-sync --access-token [액세스 토큰] --labels labels.json [�
 ozofweird
 
 ## Authors
-- [ozofweird](https://github.com/ozofweird) - **Kevin Ahn** - <이메일@gmail.com>
+- [ozofweird](https://github.com/ozofweird) - **Kevin Ahn** 
 
 ## References
 - https://github.com/modolee/github-initial-settings
