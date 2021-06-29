@@ -8,7 +8,7 @@
   - [About](#about)
   - [Overview](#overview)
   - [Getting Started](#getting-started)
-    - [Create Token](#create-token)
+    - [Token](#token)
     - [labels.json 정의](#labelsjson-정의)
     - [labels.json 적용](#labelsjson-적용)
     - [Issue/PR Template](#issuepr-template)
@@ -25,7 +25,7 @@ Issue, PR 템플릿 생성을 위한 프로젝트입니다.
 
 ## Getting Started
 
-### Create Token
+### Token
 
 repo scope를 활성화한 LABEL_TOKEN 생성 ([https://github.com/settings/tokens](https://github.com/settings/tokens))
 
