@@ -7,5 +7,6 @@ assignees: 'Kevin Ahn'
 ---
 
 # Bugs
+**Response(json), Server logs**
 
 # Result
