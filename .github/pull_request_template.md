@@ -1,5 +1,3 @@
 # Current branch
 
-# Changes
-
 # Results
