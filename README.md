@@ -2,34 +2,34 @@
 
 ![](https://img.shields.io/badge/version-0.0.1-brightgreen)
 
-## Index
-- [kevin-dev-github-settings](#kevin-dev-github-settings)
-  - [Index](#index)
-  - [About](#about)
-  - [Overview](#overview)
-  - [Getting Started](#getting-started)
-    - [Token](#token)
-    - [labels.json 정의](#labelsjson-정의)
-    - [labels.json 적용](#labelsjson-적용)
-    - [Issue/PR Template](#issuepr-template)
-  - [Contributing](#contributing)
-  - [Authors](#authors)
-  - [References](#references)
-  - [Commit messages (Gitmoji)](#commit-messages-gitmoji)
+## 📋 Index
+- [About](#🎉-about)
+- [Overview](#👀-overview)
+- [Getting Started](#🚀-getting-started)
+- [Contributing](#👥-contributing)
+- [Authors](#👤-authors)
+- [References](#📚-references)
+- [Commit Message (Gitmoji)](#✉️-commit-messages-gitmoji)
 
-## About
+## 🎉 About
 Issue, PR 템플릿 생성을 위한 프로젝트입니다.
 
-## Overview
+</br>
+</br>
+
+## 👀 Overview
 커스텀 Issue, PR 템플릿을 사용할 수 있습니다.
 
-## Getting Started
+</br>
+</br>
 
-### Token
+## 🚀 Getting Started
+
+### 🔹 Token
 
 repo scope를 활성화한 LABEL_TOKEN 생성 ([https://github.com/settings/tokens](https://github.com/settings/tokens))
 
-### labels.json 정의
+### 🔹 labels.json 정의
 ```
 [
   {
@@ -40,29 +40,41 @@ repo scope를 활성화한 LABEL_TOKEN 생성 ([https://github.com/settings/toke
 ]
 ```
 
-### labels.json 적용
+### 🔹 labels.json 적용
 ```
 npx github-label-sync --access-token [액세스 토큰] --labels labels.json [계정명]/[저장소 이름]
 ```
 
-### Issue/PR Template
+### 🔹 Issue/PR Template
 - .github 생성
 - .github/pull_request_template.md 생성
 - .github/ISSUE_TEMPLATE 생성
 - .github/ISSUE_TEMPLATE/*_template.md 생성
 
-## Contributing
+</br>
+</br>
+
+## 👥 Contributing
 ozofweird
 
-## Authors
+</br>
+</br>
+
+## 👤 Authors
 - [ozofweird](https://github.com/ozofweird) - **Kevin Ahn** 
 
-## References
+</br>
+</br>
+
+## 📚 References
 - https://github.com/modolee/github-initial-settings
   
+</br>
+</br>
+
 ---
 
-## Commit messages (Gitmoji)
+## ✉️ Commit messages (Gitmoji)
 
 |Gitmoji|Code|Description|
 |:-----:|:---:|:--------:|
